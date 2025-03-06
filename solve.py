@@ -1,11 +1,7 @@
-# copied code online, go over and understand it 
-
-
-
 import os
 CLEAR = 'cls' 
 
-# you can replace the digits from puzzle0 and solution0 to solve different puzzles. 
+# replace the digits from puzzle0 and solution0 to solve different puzzles. 
 #  the puzzles.py and solutions.py files to understand better
 from puzzles import puzzle0 as puzzle
 from solutions import solution0 as solution # to verify the solution at the end
